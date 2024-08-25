@@ -2,7 +2,6 @@
 ### Table of Contents
 - [Introduction](#introduction)
 - [Projects](#projects)
-- [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
 
 ### Introduction
@@ -24,13 +23,6 @@ This section showcases some of my freeCodeCamp projects:
 
 4. **Cafeteria Coffee Survey Form**  
    - A survey form designed for gathering feedback on popular coffee options in a cafeteria setting. It demonstrates the use of HTML forms and basic styling.
-
-### Technologies Used
-
-- **HTML5**: For structuring the content.
-- **CSS3**: For styling the webpage, including the pixel-art background and layout.
-- **Bootstrap**: For responsive design and layout.
-- **Git & GitHub**: For version control and project management.
 
 ### How to Run
 
